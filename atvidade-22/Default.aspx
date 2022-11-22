@@ -11,10 +11,9 @@
     <div class="row">
         <div class="col-md-7">
             <h2>Getting started</h2>adasd
-         q32123124124234512341sss301950">Learn more &raquo;</a>
-            </p aps:textbot runat="server">
-        </div>
+         
     </div>
-    <div>
+    <div><div
+        <asp:AdRotator asd />br>/>;
 
 </asp:Content>
